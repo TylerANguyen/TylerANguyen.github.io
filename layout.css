@@ -147,7 +147,7 @@ body{
    grid-row: 2 / 6;
    filter:hue-rotate(325deg);
    background-position: center;
-   background-image: url(../../images/profile.jpg);
+   background-image: url(profile.jpg);
    background-size: cover;
    border-radius: 10px;
    margin-left: 55px;
@@ -227,7 +227,7 @@ body{
 .content7{
   grid-column: 1/8;
   grid-row: 1/8;
-  background-image: url(../../images/Fuji4.jpg);
+  background-image: url(Fuji4.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -236,7 +236,7 @@ body{
   /* border: 1px solid rgb(233, 233, 233); */
   grid-column: 3/5;
   grid-row: 1/4;
-  background-image: url(../../images/Writing.jpg);
+  background-image: url(Writing.jpg);
   background-size: cover;
   border-radius: 5%;
   height: 320px;
@@ -249,7 +249,7 @@ body{
   /* border: 1px solid rgb(233, 233, 233); */
   grid-column: 5/7;
   grid-row: 1/4;
-  background-image: url(../../images/Keyboard.jpg);
+  background-image: url(Keyboard.jpg);
   background-size: cover;
   border-radius: 5%;
   height: 320px;
@@ -262,7 +262,7 @@ body{
   /* border: 1px solid rgb(233, 233, 233); */
   grid-column: 3/5;
   grid-row: 4/7;
-  background-image: url(../../images/Ireland.jpg);
+  background-image: url(Ireland.jpg);
   background-size: cover;
   border-radius: 5%;
   height: 320px;
@@ -274,7 +274,7 @@ body{
   /* border: 1px solid rgb(233, 233, 233); */
   grid-column: 5/7;
   grid-row: 4/7;
-  background-image: url(../../images/ZineCover.psd.png);
+  background-image: url(ZineCover.psd.png);
   background-size: cover;
   border-radius: 5%;
   height: 320px;
@@ -298,7 +298,7 @@ body{
 .content14{
   grid-column: 1/8;
   grid-row: 1/8;
-  background-image: url(../../images/TylerSitePic2.png);
+  background-image: url(TylerSitePic2.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
